@@ -185,37 +185,6 @@ Evaluation on held-out test set (as per `src/4 Testing.ipynb`):
 
 ---
 
-## Contributing
-
-1. **Fork** the repository and create a feature branch (`git checkout -b feature/awesome-improvement`)
-2. **Commit** your changes with descriptive messages
-3. **Push** to your branch and open a Pull Request
-4. Describe your changes, motivation, and any testing performed
-
-**Development Guidelines:**
-- Follow existing code structure and naming conventions
-- Test changes with provided evaluation notebooks
-- Update documentation for any new features
-
----
-
-## License
-
-This project is provided **for academic and research purposes only**. Please cite appropriately if you build upon this work.
-
-**Citation:**
-```bibtex
-@misc{scientific-paper-summarizer-2024,
-  title={Scientific Paper Summarization via LoRA-Tuned FLAN-T5-XXL},
-  author={[Your Name]},
-  year={2024},
-  howpublished={Final Year Project, Multimedia University},
-  url={https://github.com/aminshennan/Scientific-Paper-Summarization-via-LoRA-Tuned-FLAN-T5-XXL-}
-}
-```
-
----
-
 ## References
 
 * Hu et al., "LoRA: Low‑Rank Adaptation of Large Language Models" (2022)
