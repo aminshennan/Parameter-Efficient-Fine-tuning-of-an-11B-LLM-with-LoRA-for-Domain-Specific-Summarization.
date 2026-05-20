@@ -20,9 +20,7 @@ A full end‑to‑end pipeline that harvests scientific papers from arXiv, clean
 7. [Report & Presentation](#report--presentation)
 8. [Architecture](#architecture)
 9. [Results](#results)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [References](#references)
+10. [References](#references)
 
 ---
 
